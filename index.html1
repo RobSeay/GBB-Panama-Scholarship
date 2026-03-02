@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Business Brigades at Indiana University &#8211; Panama Scholarship</title>
+    <meta name="description" content="Scholarship details for Business Brigades Panama program offered by Global Business Brigades at Indiana University.">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Sticky Navigation -->
+    <nav class="navbar" aria-label="Main navigation">
+        <div class="navbar-content">
+            <a href="#" class="logo-link">
+                <img src="assets/gbb-panama-logo.png" alt="Global Business Brigades Panama logo" class="logo-small">
+            </a>
+            <ul class="nav-list">
+                <li><a href="#cost">Cost</a></li>
+                <li><a href="#overview">Overview</a></li>
+                <li><a href="#timeline">Timeline</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="hero-content">
+            <p class="eyebrow">Global Business Brigades at Indiana University</p>
+            <img src="assets/gbb-panama-logo.png" alt="GBB Panama logo" class="logo-large">
+            <h1>Business Brigades Panama Scholarship</h1>
+            <p class="hero-intro">Empowering students through financial support for a meaningful international service experience.</p>
+        </div>
+    </header>
+
+    <!-- Cost Breakdown Section -->
+    <section id="cost" class="section section-alt">
+        <div class="section-header">
+            <p class="section-label">Cost Breakdown</p>
+            <h2>Program &amp; Flight Fees</h2>
+            <p class="section-intro">Understand the financial structure of the Panama trip and scholarship coverage.</p>
+        </div>
+        <div class="cards cost-cards">
+            <div class="card">
+                <h3>Program Fee</h3>
+                <p class="card-value">$1,590</p>
+                <p>The full program fee is due regardless of scholarship acceptance; fundraising may reduce this amount.</p>
+            </div>
+            <div class="card">
+                <h3>Flight Cost</h3>
+                <p class="card-value">Varies</p>
+                <p>Flights are booked directly by GBB. Students are responsible for any cost exceeding scholarship coverage.</p>
+            </div>
+            <div class="card">
+                <h3>Scholarship Coverage</h3>
+                <p class="card-value">Up to $567</p>
+                <p>Scholarship applies only to airfare and does not reduce the program fee obligation.</p>
+            </div>
+        </div>
+        <p class="note">Acceptance of the scholarship requires commitment to pay the full $1,590 program fee (subject to fundraising reductions).</p>
+    </section>
+
+    <!-- Scholarship Overview -->
+    <section id="overview" class="section">
+        <div class="section-header">
+            <p class="section-label">Scholarship Overview</p>
+            <h2>About the Scholarship</h2>
+            <p class="section-intro">Designed to reduce travel costs for eligible participants of the Panama brigade.</p>
+        </div>
+        <div class="cards overview-cards">
+            <div class="card">
+                <h3>Eligibility</h3>
+                <p>Open to full-time Indiana University students who apply by the deadline and meet selection criteria.</p>
+            </div>
+            <div class="card">
+                <h3>Application</h3>
+                <p>Submit the online application form, references, and a personal statement by the posted deadline.</p>
+            </div>
+            <div class="card">
+                <h3>Benefits</h3>
+                <p>Covers up to $567 of airfare; provides experience and leadership development through service.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Visual/Data Placeholder Section -->
+    <section id="visuals" class="section section-alt">
+        <div class="section-header">
+            <p class="section-label">Visuals &amp; Data</p>
+            <h2>Upcoming Content</h2>
+            <p class="section-intro">Components for future photos, charts, and graphics are provided below.</p>
+        </div>
+        <div class="placeholders">
+            <div class="media-slot">
+                <h3>Sample Photo</h3>
+                <p>PLACEHOLDER<br>Title: Team Working in Panama<br>Description: Image of students collaborating on a project.</p>
+                <p class="caption">Photo caption goes here.</p>
+            </div>
+            <div class="embed-slot">
+                <h3>Sample Chart</h3>
+                <p>PLACEHOLDER<br>Title: Fundraising Progress<br>Description: Bar chart showing current fundraising status.</p>
+                <p class="caption">Chart caption goes here.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Timeline Section -->
+    <section id="timeline" class="section">
+        <div class="section-header">
+            <p class="section-label">Timeline</p>
+            <h2>Application &amp; Selection Timeline</h2>
+            <p class="section-intro">Key dates and deadlines for applicants and scholarship recipients.</p>
+        </div>
+        <ul class="timeline-list">
+            <li>
+                <strong>Application Opens:</strong> January 15
+            </li>
+            <li>
+                <strong>Application Deadline:</strong> March 1
+            </li>
+            <li>
+                <strong>Finalists Notified:</strong> March 15
+            </li>
+            <li>
+                <strong>Interviews Conducted:</strong> March 20–25
+            </li>
+            <li>
+                <strong>Scholarship Recipients Announced:</strong> April 1
+            </li>
+            <li>
+                <strong>Passport Info Due:</strong> Within 48 hours of acceptance
+            </li>
+            <li>
+                <strong>Flight Booked:</strong> Early May
+            </li>
+        </ul>
+    </section>
+
+    <!-- Selection Process Section -->
+    <section id="process" class="section section-alt">
+        <div class="section-header">
+            <p class="section-label">Selection Process</p>
+            <h2>How Winners Are Chosen</h2>
+            <p class="section-intro">A fair and consistent process ensures the most qualified students receive support.</p>
+        </div>
+        <div class="cards process-cards">
+            <div class="card">
+                <h3>Finalist Interviews</h3>
+                <p>Only a select group of finalists will be invited for a 10–15 minute Zoom interview.</p>
+            </div>
+            <div class="card">
+                <h3>Standardized Questions</h3>
+                <p>The same set of questions is asked of each candidate, promoting equity.</p>
+            </div>
+            <div class="card">
+                <h3>Scoring Rubric</h3>
+                <p>Interviews are assessed using a consistent rubric to ensure objective comparison.</p>
+            </div>
+            <div class="card">
+                <h3>Committee</h3>
+                <p>The Executive Board of Global Business Brigades conducts the selection process.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Policies Section -->
+    <section id="policies" class="section">
+        <div class="section-header">
+            <p class="section-label">Policies</p>
+            <h2>Important Requirements &amp; Rules</h2>
+            <p class="section-intro">Scholarship recipients must comply with these policies to maintain funding.</p>
+        </div>
+        <div class="cards policies-cards">
+            <div class="card">
+                <h3>Passport Deadline</h3>
+                <p>Recipients must submit passport information within 48 hours of acceptance. Failure may lead to forfeiture.</p>
+            </div>
+            <div class="card">
+                <h3>Withdrawal Policy</h3>
+                <p>If a student withdraws after flight booking, they are responsible for non-recoverable costs. Airline credits remain in the student's name. Exceptions only for documented emergency.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="section section-alt">
+        <div class="section-header">
+            <p class="section-label">FAQ</p>
+            <h2>Frequently Asked Questions</h2>
+            <p class="section-intro">Answers to common questions about the scholarship and program.</p>
+        </div>
+        <div class="faq-item">
+            <button aria-expanded="false" aria-controls="faq1" class="faq-question">Who is eligible?</button>
+            <div id="faq1" class="faq-answer" hidden>
+                <p>Full-time IU students who apply by the deadline and meet criteria.</p>
+            </div>
+        </div>
+        <div class="faq-item">
+            <button aria-expanded="false" aria-controls="faq2" class="faq-question">What costs does the scholarship cover?</button>
+            <div id="faq2" class="faq-answer" hidden>
+                <p>Up to $567 for airfare only; program fee remains the student’s responsibility.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2026 Global Business Brigades at Indiana University. All rights reserved.</p>
+        <p><a href="#">Privacy Policy</a> | <a href="#">Contact Us</a></p>
+    </footer>
+
+<script>
+// Simple FAQ toggle script
+const faqButtons = document.querySelectorAll('.faq-question');
+faqButtons.forEach(btn => {
+    btn.addEventListener('click', () => {
+        const expanded = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', String(!expanded));
+        const answer = document.getElementById(btn.getAttribute('aria-controls'));
+        if (answer) {
+            if (expanded) {
+                answer.setAttribute('hidden', '');
+            } else {
+                answer.removeAttribute('hidden');
+            }
+        }
+    });
+});
+</script>
+</body>
+</html>
